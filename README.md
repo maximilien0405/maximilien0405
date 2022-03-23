@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Maximilien Z.</h1>
+<h1 align="left">Maximilien Zimmermann</h1>
 <p align="left">A freelance UI/UX designer & front-end developer full of ideas to take your project to the next-level.</h3>
 
 <h4 align="left">Languages and Tools:</h3>
