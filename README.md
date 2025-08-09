@@ -4,6 +4,3 @@
 <a href="https://www.maximilien.work/" target="_blank">Website</a> - 
 <a href="https://www.linkedin.com/in/maximilien-zimmermann-a2a290183/" target="_blank">Linkedin</a> - 
 <a href="https://www.behance.net/max-zim" target="_blank">Behance</a>
-
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=maximilien0405)](https://git.io/streak-stats)
